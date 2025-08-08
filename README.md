@@ -1,16 +1,6 @@
 # weather_app_final_version
+ 
+A clean weather app UI built with Flutter based on a Figma design
 
-A new Flutter project.
+![WhatsApp Image 2025-08-08 at 20 28 37_8449ae97](https://github.com/user-attachments/assets/04c09382-03ea-4c8d-baa9-af775601da97)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
